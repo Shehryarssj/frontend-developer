@@ -1,0 +1,28 @@
+.sign-in {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    width: 100%;
+    height: 100%;
+}
+
+.password-options input {
+    width: 24px;
+    height: 24px;
+}
+
+.password-options {
+    display: flex;
+    justify-content: space-between;
+}
+
+.submit {
+    height: 74px;
+    width: 180px;
+}
+
+
+
+a {
+    color: white;
+}
